@@ -8,7 +8,7 @@ Carefully consider your user and all possible ways in which they could respond.
 
 #### Your code should:
 > * Welcome point for the application 
-> * Display a menu of code challenges the can be run
+> * Display a menu of code challenges that can be run
 > * Include a message that asks the user to select a challenge
 > * Return to the menu after a challenge runs
 
