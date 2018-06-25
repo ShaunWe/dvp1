@@ -27,8 +27,10 @@ When ready, begin to customize this document with the following information:
 
 <br>
 
-### Questions?
-Direct questions to your Project & Portfolio instructor(s) on Slack. 
+### Before you Begin...
+This repository includes a "*Challenges*" folder that contains your initial coding assignments. Attend or review the first Lecture / GoTo meeting **BEFORE** working on this material. Be sure to take notes and ask questions. After this, you can begin to work on these coding challenges.
+
+For additional instruction, review the [coding instructions](https://github.com/ePortfolios/dvp1/tree/master/Challenges). 
 
 
 
